@@ -1,6 +1,6 @@
 ﻿CREATE TABLE [dbo].[BigTable] (
     [Col1] INT         NULL,
-    [Col2] CHAR (1100) NULL
+    [Col2] CHAR (1200) NULL
 );
 
 

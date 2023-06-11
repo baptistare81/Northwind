@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[tb_numeros] (
+    [id] INT IDENTITY (1, 1) NOT FOR REPLICATION NOT NULL,
+    PRIMARY KEY CLUSTERED ([id] ASC)
+);
+
